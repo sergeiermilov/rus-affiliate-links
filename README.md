@@ -20,7 +20,7 @@
 - GoGetLinks - [ссылка](https://gogetlinks.net)
 ## Разное
 - Яндекс Дистрибуция (Маркет) - [ссылка](https://distribution.yandex.ru/v2/dashboard/)
-- Автоматизация CPA сетей - [ссылка](https://advcake.com/ru)  
+- Автоматизация CPA от AdvCake - [ссылка](https://advcake.com/ru) - [ЛК](https://my.advcake.com/)  
 - Envato - [ссылка](https://app.impact.com/secure/mediapartner/home/pview.ihtml)
 ## Прием платежей
 - Freekassa - [ссылка](https://www.free-kassa.ru/tariff)  
