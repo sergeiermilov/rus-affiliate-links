@@ -5,7 +5,7 @@
 - Leadpush - [ссылка](http://webmasters.leadpush.ru/)  
 - СовИнформБюро - [ссылка](http://cpa.sov-inform-buro.ru/)  
 - Биржа рекламы Collaborator - [ссылка](https://collaborator.pro/)  
-- Контур - [ссылка](https://kontur.ru/partnership/online)  
+- Контур - [ссылка](https://kontur.ru/partnership/online) - [ЛК](https://kontur.ru/account/partnership/links)
 - МодульБанк - [ссылка](https://modulbank.ru/partners-programm/)
 ## Донаты
 - Buymeacoffee - [ссылка](https://www.buymeacoffee.com/)
